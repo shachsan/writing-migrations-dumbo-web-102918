@@ -1,1 +1,1 @@
-class ChangeDatatype
+class ChangeDatatypeBri
