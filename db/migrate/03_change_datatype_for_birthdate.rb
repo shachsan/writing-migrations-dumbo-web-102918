@@ -1,2 +1,2 @@
-class ChangeDatatypeBirthday
-  
+class ChangeDatatypeBirthday < 
+end
