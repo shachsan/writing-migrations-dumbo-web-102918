@@ -1,2 +1,2 @@
-class ChangeDatatypeBirthday < 
+class ChangeDatatypeBirthday < ActiveRecord::Migration
 end
