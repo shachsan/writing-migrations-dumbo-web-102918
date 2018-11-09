@@ -1,1 +1,1 @@
-class ChangeDa
+class ChangeDatatype
